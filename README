@@ -1,0 +1,34 @@
+# Drum Kit Project 🥁
+
+This project was built by following Wes Bos's **JavaScript 30** course.  
+It simulates a virtual drum set that can be played using your keyboard.
+
+## 🔥 What it does
+
+- When you press certain keys on the keyboard (e.g., A, S, D, F, G, H, J, K, L),  
+a drum sound plays and a visual animation is triggered on screen.
+
+## 💻 Technologies used
+
+- HTML
+- CSS
+- JavaScript
+
+## 🚀 How to run locally
+
+1. Clone the repository:
+
+
+2. Navigate into the project directory:
+
+
+3. Open `index.html` in your browser (control+click it and Open with live server).
+
+
+## 📚 What I learned
+
+- DOM element selection
+- Handling events (`keydown`, `transitionend`)
+- Adding/removing CSS classes with JavaScript
+- Playing audio files in the browser
+
